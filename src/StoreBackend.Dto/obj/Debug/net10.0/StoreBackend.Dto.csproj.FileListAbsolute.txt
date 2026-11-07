@@ -1,0 +1,11 @@
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Dto\bin\Debug\net10.0\StoreBackend.Dto.deps.json
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Dto\bin\Debug\net10.0\StoreBackend.Dto.dll
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Dto\bin\Debug\net10.0\StoreBackend.Dto.pdb
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Dto\obj\Debug\net10.0\StoreBackend.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Dto\obj\Debug\net10.0\StoreBackend.Dto.AssemblyInfoInputs.cache
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Dto\obj\Debug\net10.0\StoreBackend.Dto.AssemblyInfo.cs
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Dto\obj\Debug\net10.0\StoreBackend.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Dto\obj\Debug\net10.0\StoreBackend.Dto.dll
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Dto\obj\Debug\net10.0\refint\StoreBackend.Dto.dll
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Dto\obj\Debug\net10.0\StoreBackend.Dto.pdb
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Dto\obj\Debug\net10.0\ref\StoreBackend.Dto.dll
