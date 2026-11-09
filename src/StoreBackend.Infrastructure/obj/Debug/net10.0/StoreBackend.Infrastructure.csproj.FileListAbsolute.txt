@@ -15,3 +15,4 @@ C:\Users\Wilky\StoreBackend\src\StoreBackend.Infrastructure\obj\Debug\net10.0\St
 C:\Users\Wilky\StoreBackend\src\StoreBackend.Infrastructure\obj\Debug\net10.0\ref\StoreBackend.Infrastructure.dll
 C:\Users\Wilky\StoreBackend\src\StoreBackend.Infrastructure\bin\Debug\net10.0\StoreBackend.Infrastructure.runtimeconfig.json
 C:\Users\Wilky\StoreBackend\src\StoreBackend.Infrastructure\obj\Debug\net10.0\StoreBackend.Infrastructure.genruntimeconfig.cache
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Infrastructure\obj\Debug\net10.0\StoreBackend.Infrastructure.sourcelink.json

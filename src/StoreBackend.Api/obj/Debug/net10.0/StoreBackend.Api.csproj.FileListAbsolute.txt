@@ -168,3 +168,4 @@ C:\Users\Wilky\StoreBackend\src\StoreBackend.Api\bin\Debug\net10.0\runtimes\win\
 C:\Users\Wilky\StoreBackend\src\StoreBackend.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Wilky\StoreBackend\src\StoreBackend.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Wilky\StoreBackend\src\StoreBackend.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Api\obj\Debug\net10.0\StoreBackend.Api.sourcelink.json

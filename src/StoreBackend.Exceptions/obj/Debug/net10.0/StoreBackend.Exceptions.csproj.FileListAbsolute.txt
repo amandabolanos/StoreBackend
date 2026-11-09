@@ -9,3 +9,4 @@ C:\Users\Wilky\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\StoreB
 C:\Users\Wilky\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\refint\StoreBackend.Exceptions.dll
 C:\Users\Wilky\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\StoreBackend.Exceptions.pdb
 C:\Users\Wilky\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\ref\StoreBackend.Exceptions.dll
+C:\Users\Wilky\StoreBackend\src\StoreBackend.Exceptions\obj\Debug\net10.0\StoreBackend.Exceptions.sourcelink.json
